@@ -1,0 +1,17 @@
+source,target,target_value
+United States,United States,526
+United States,China,2
+United States,Britain,50
+United States,Canada,4
+United States,Other,10
+China,China,140
+China,Other,8
+China,Australia,4
+Britain,United States,50
+Britain,Britain,50
+Britain,Australia,4
+Britain,Canada,2
+France,France,40
+France,Other,7
+Japan,Japan,30
+Japan,Other,3
